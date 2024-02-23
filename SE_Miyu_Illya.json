@@ -1,7 +1,6 @@
 {
   "ver":1.0,
   "se":{
-    "3":{"url":"https://raw.githubusercontent.com/edeniasilver/edeniasilver-se-mj/master/countdown5.mp3"},
     "25":{"url":"https://raw.githubusercontent.com/edeniasilver/edeniasilver-se-mj/master/Miyu/action_pon.mp3"},
     "26":{"url":"https://raw.githubusercontent.com/edeniasilver/edeniasilver-se-mj/master/Illya/action_pon.mp3"},
     "27":{"url":"https://raw.githubusercontent.com/edeniasilver/edeniasilver-se-mj/master/Miyu/action_kan.mp3"},
@@ -13,8 +12,6 @@
     "33":{"url":"https://raw.githubusercontent.com/edeniasilver/edeniasilver-se-mj/master/Miyu/action_ron.mp3"},
     "34":{"url":"https://raw.githubusercontent.com/edeniasilver/edeniasilver-se-mj/master/Illya/action_ron.mp3"},
     "35":{"url":"https://raw.githubusercontent.com/edeniasilver/edeniasilver-se-mj/master/Miyu/action_tsumo.mp3"},
-    "36":{"url":"https://raw.githubusercontent.com/edeniasilver/edeniasilver-se-mj/master/Illya/action_tsumo.mp3"},
-    "40":{"url":"https://raw.githubusercontent.com/edeniasilver/edeniasilver-se-mj/master/winlose.mp3"},
-    "41":{"url":"https://raw.githubusercontent.com/edeniasilver/edeniasilver-se-mj/master/yakuman.mp3"}
+    "36":{"url":"https://raw.githubusercontent.com/edeniasilver/edeniasilver-se-mj/master/Illya/action_tsumo.mp3"}
   }
 }
